@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec5f31ab-dd43-4640-8cd4-c03827da4b98" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="ec5f31ab-dd43-4640-8cd4-c03827da4b98" name="Changes" comment="뉴스 크롤링 제목 가져오기 성공" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +63,27 @@
       <option name="presentableId" value="Default" />
       <updated>1748683336301</updated>
     </task>
+    <task id="LOCAL-00001" summary="뉴스 크롤링 제목 가져오기 성공">
+      <option name="closed" value="true" />
+      <created>1748686184028</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748686184028</updated>
+    </task>
+    <task id="LOCAL-00002" summary="뉴스 크롤링 제목 가져오기 성공">
+      <option name="closed" value="true" />
+      <created>1748686877740</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748686877740</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="뉴스 크롤링 제목 가져오기 성공" />
+    <option name="LAST_COMMIT_MESSAGE" value="뉴스 크롤링 제목 가져오기 성공" />
   </component>
 </project>
